@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/
+scratch*.py
+test_*.py
